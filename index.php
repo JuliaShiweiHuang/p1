@@ -10,6 +10,10 @@
 	<link href="http://netdna.bootstrapcdn.com/bootswatch/3.1.1/flatly/bootstrap.min.css" rel="stylesheet">
 
 	<link href='css/main.css' rel='stylesheet'>
+	<style>
+	h1, h3 {text-align:center;}
+	p {text-align:center;}
+	</style>
 
 </head>
 <body>
@@ -18,7 +22,7 @@
 
 		<h1>Shiwei Huang</h1>
 
-		<img src='images/shiweihuang.jpg'>
+		<div style = "text-align: center;"><img src='images/shiweihuang.jpg'></div>
 
 		<h3>Project 2 Title</h3>
 		<p>View: [link]</p>
