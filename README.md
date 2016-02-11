@@ -4,9 +4,12 @@ P1 For DWA15 is a simple website include the following information:
 Name, photo of yourself, and placeholder links for Project 2, 3 and 4.
 
 Live URL:
-Link1: http://www.shiweijuliahuang.me/p1/
-Link2: http://p1.shiweijuliahuang.me
-Github P1 link: https://github.com/ShiweiJuliaHuang/p1
+Link1:
+http://www.shiweijuliahuang.me/p1/
+Link2:
+http://p1.shiweijuliahuang.me
+Github P1 link:
+https://github.com/ShiweiJuliaHuang/p1
 
 Description of the project:
 This project contains certain goals in lecture two.
@@ -15,3 +18,4 @@ This project contains certain goals in lecture two.
 3). Refresh HTML/CSS skills.
 
 Link to the screencast demo:
+https://www.youtube.com/watch?v=_JIyG67lH-I
