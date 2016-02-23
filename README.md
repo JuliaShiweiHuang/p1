@@ -1,4 +1,4 @@
-## P1
+## P1 README
 
 P1 For DWA15 is a simple website include the following information:
 Name, photo of yourself, and placeholder links for Project 2, 3 and 4.
